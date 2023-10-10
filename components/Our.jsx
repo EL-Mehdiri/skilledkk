@@ -102,6 +102,8 @@ const Our = () => {
                     </button>
 
                 </div>
+                {error && <p className=" text-[#ff2d2d]">Not a valid</p>}
+
             </form>
             <div>
                 <h1 className="text-[#151515] font-[880] text-[104px]"><span className="text-[#854DFF] ">
