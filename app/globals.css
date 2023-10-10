@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgg {
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+}
